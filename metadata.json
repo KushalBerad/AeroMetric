@@ -1,0 +1,6 @@
+{
+  "name": "Weather Dashboard",
+  "description": "A high-performance luxury weather dashboard featuring dynamic animations, hourly and 7-day forecasting, smart weather analysis, and geolocation support.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_API"]
+}
