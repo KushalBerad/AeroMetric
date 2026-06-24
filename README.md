@@ -1,6 +1,6 @@
-# Run and deploy your Weather App
+# Run and deploy AeroMetric Weather App
 
-This contains everything you need to run your app locally
+This contains everything you need to run AeroMetric locally
 
 ## Run Locally
 
